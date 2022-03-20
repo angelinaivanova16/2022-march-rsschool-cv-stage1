@@ -1,5 +1,5 @@
 # Angelina Ivanova
-Junior Front-End Developer (Vue.js)
+Junior Front-End Developer
 ## Personal information
 **Name** Angelina Ivanova
 
@@ -10,17 +10,18 @@ Junior Front-End Developer (Vue.js)
 **Discord** Angelina (@angelinaivanova16)
 
 ## Objective
-I want to study at The Rolling Scopes School in order to structure my knowledge and gain new ones. I am looking for a job or internship as a front-end developer. My goal is to get work experience. I get real pleasure from solving problems, from constant development and training, so I chose this profession. Good memory, flexibility of thinking, ability to work in multitasking conditions and quickly find information on the Internet help me. I am a quick learner and I am not afraid of difficulties.
+I want to study at The Rolling Scopes School in order to structure my knowledge and gain new ones. I am looking for a job as a front-end developer. My goal is to get work experience. I get real pleasure from solving problems, from constant development and training, so I chose this profession. Good memory, flexibility of thinking, ability to work in multitasking conditions and quickly find information on the Internet help me. I am a quick learner and I am not afraid of difficulties.
 ## Skills
 I am good at HTML, CSS. I’m familiar with JavaScript and Vue. I have some knowledge of version control (git).
 ## Education
-Karelian State Pedagogical Academy, the faculty of psychology (specialist), 2011.
+I took a course «JavaScript/Front-end. Stage 0» in The Rolling Scopes School (December 2021 - March 2022).
+Also I took a frontend development course in School of a young programmer (February 2021 - June 2021).
+My first education is Karelian State Pedagogical Academy, the faculty of psychology (specialist), 2011.
 ## Experience
-I took a frontend development course in School of a young programmer and received a certificate.
+
 ## Language skills
 B1
 ## Sample code
 Please see the first examples of my code:
-* [HTML/CSS](https://github.com/angelinaivanova16/angelinaivanova16.github.io/blob/master/index.html) ([Результат](https://angelinaivanova16.github.io/))
-* [Vue.js](https://github.com/angelinaivanova16/firstvuejs)
+
 
