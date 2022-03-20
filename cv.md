@@ -25,7 +25,9 @@ Also I took a frontend development course in School of a young programmer (Febru
 My first education is Karelian State Pedagogical Academy, the faculty of psychology (specialist), 2011.
 
 ## Experience
+https://rolling-scopes-school.github.io/angelinaivanova16-JSFEPRESCHOOL/eco-sounds/
 
+https://rolling-scopes-school.github.io/angelinaivanova16-JSFEPRESCHOOL/portfolio/
 ## Language skills
 B1
 ## Sample code
